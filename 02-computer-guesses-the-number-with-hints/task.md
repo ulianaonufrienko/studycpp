@@ -14,7 +14,6 @@
 2. Важно подумать, как сделать число попыток минимальным
 
 # Инструменты
-1. rand(), srand()
-2. console I/O
-3. if / else
-4. while
+1. console I/O
+2. if / else
+3. while

@@ -14,6 +14,5 @@
 2. Игрок не может подсказать
 
 # Инструменты
-1. rand(), srand()
-2. console I/O
-3. if / else
+1. console I/O
+2. if / else
